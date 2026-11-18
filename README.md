@@ -61,7 +61,6 @@ Compare the original, opened, and closed images.
 
 **Register No:** 212224240021
 
-## Output
 ## PROGRAM
 ```python
 import cv2
@@ -99,7 +98,7 @@ plt.axis("off")
 plt.tight_layout()
 plt.show()
 ```
-
+## Output
 ### Original Image
 
 <img width="334" height="261" alt="image" src="https://github.com/user-attachments/assets/e326126b-ad06-4ce4-98d5-c9868a58fd69" />
